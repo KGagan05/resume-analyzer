@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>AI Resume Analyzer</title>
+</head>
+
+<body>
+
+    <h1>📄 AI Resume Analyzer</h1>
+
+    <form action="/analyze" method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <button type="submit">Analyze</button>
+    </form>
+
+    {% if score %}
+    <h2>Match Score: {{score}}%</h2>
+
+    <h3>Your Skills:</h3>
+    <ul>
+        {% for s in skills %}
+        <li>{{s}}</li>
+        {% endfor %}
+    </ul>
+
+    <h3>Missing Skills:</h3>
+    {% if missing %}
+    <ul>
+        {% for m in missing %}
+        <li>{{m}}</li>
+        {% endfor %}
+    </ul>
+    {% else %}
+    <p>No missing skills 🎉</p>
+    {% endif %}
+    {% endif %}
+
+</body>
+
+</html>

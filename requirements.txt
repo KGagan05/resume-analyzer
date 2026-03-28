@@ -1,0 +1,52 @@
+Gagan K
++91-9353030545 | kgagangk05@gmail.com
+linkedin.com/in/gagan-k | github.com/KGagan05
+Summary
+Computer Science student specializing in Artificial Intelligence and Machine Learning with strong interest
+in deep learning, NLP, and large language models. Experienced in building AI projects such as brain
+tumor detection using CNNs and NLP models for word representation. Proficient in Python, TensorFlow,
+and FastAPI, with a focus on developing scalable AI applications and real-world machine learning
+solutions.
+Skills Summary
+• Languages: Python, JavaScript, Java, C, C++
+• AI / Machine Learning: Deep Learning, CNN, Transfer Learning, NLP, LLM Applications, Image
+Classification, Data Augmentation
+• Frameworks & Libraries: FastAPI, TensorFlow, Keras, OpenCV, NumPy, Pandas, Bootstrap
+• Backend & Databases: Supabase, MySQL, REST APIs, Authentication Systems
+• Concepts: Data Structures & Algorithms, Operating Systems, DBMS, OOP, Computer Networks
+• Tools & Platforms: Git, GitHub, Docker (basic), Jenkins, Kubernetes (basic), MATLAB, VS Code
+Projects
+• AI-Content-Planner-SaaS — TypeScript, Python, FastAPI, React, OpenAI API,
+PostgreSQL
+– Developed an AI-powered SaaS platform that generates structured content strategies including
+blog topics, social media posts, and marketing calendars using LLM-based prompt engineering.
+– Integrated LLM APIs and NLP techniques to automate keyword generation, topic clustering, and
+content optimization for improved digital marketing planning.
+• AI Crime Investigation Chatbot — Python, NLP, FastAPI, Supabase, OpenAI API
+– Developed an AI-powered chatbot to assist in crime investigation by analyzing case descriptions,
+user queries, and evidence data using NLP techniques.
+– Built scalable backend APIs using FastAPI and integrated Supabase for real-time database
+management, authentication, and case record storage.
+– Implemented LLM-based semantic search and entity extraction to identify suspects, locations, and
+crime patterns from investigation reports.
+• AI-Based Brain Tumor Detection — Python, TensorFlow, CNN, Transfer Learning
+– Built an AI model to classify brain tumors from MRI images using CNN and transfer learning
+architectures.
+– Utilized pre-trained models to improve feature extraction and reduce training time.
+– Achieved improved classification performance through data augmentation and hyperparameter
+tuning.
+Education
+•
+JSS ACADEMY OF TECHNICAL EDUCATION Bachelor of Engineering - CSE[AIML]; GPA: 8.55 • PES PU College 12th Class - Karnataka State Board; Percentage - 89% • PM Shri Kendriya Vidyalaya 10th Class - CBSE; Percentage - 92% Bengaluru, Karnataka, India
+2023 - 2026
+Mandya, Karnataka, India
+2023
+Mandya, Karnataka, India
+2021
+Achievements and Extra Curricular Activities
+• Cleared Smart India Hackathon (SIH) - First Round, Participated in Game-a-thon competition.
+• Represented VTU in the Inter-University Basketball Tournament as a member of the university
+basketball team.
+• Recieved Best Outgoing Student award in High School.
+• Participated in Sports in State Level for years, developing leadership, teamwork, and community
+service skills.
