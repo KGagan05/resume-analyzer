@@ -8,7 +8,10 @@ def extract_skills(text):
 
 def analyze_resume(resume_text, job_description):
 
-    texts = [resume_text, job_description]
+    resume_skills = extract_skills(resume_text) 
+    job_skills = extract_skills(job_description)
+
+    texts = [" ".join(resume_skills), " ".join(job_skills)]
 
     vectorizer = TfidfVectorizer()
     vectors = vectorizer.fit_transform(texts)

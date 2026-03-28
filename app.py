@@ -8,7 +8,8 @@ app = FastAPI()
 templates = Jinja2Templates(directory="templates")
 
 job_description = """
-Python, Machine Learning, NLP, Deep Learning, React, FastAPI, AWS
+We are looking for a Python developer with experience in Machine Learning,
+Deep Learning, NLP, SQL, and building AI models.
 """
 
 
